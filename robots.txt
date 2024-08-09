@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://standrivel.com/sitemap.xml
